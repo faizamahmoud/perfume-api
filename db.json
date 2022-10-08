@@ -1,0 +1,21 @@
+{
+    "perfumes": [
+        {
+            "id":,
+            "name",
+            "price",
+            "description":,
+            "characteristics":,
+            "size":,
+            "image":,
+            "occasions":,
+            "scent-family":,
+            "type":,
+            "top notes":,
+            "middle notes":,
+            "base notes":,
+            "units":
+        }
+
+    ]
+}
