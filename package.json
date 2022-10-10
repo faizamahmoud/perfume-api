@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "json-server": "^0.17.0"
-  }
+  },
+  "name": "perfume-api",
+  "description": "My Perfume API",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faizamahmoud/perfume-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faizamahmoud/perfume-api/issues"
+  },
+  "homepage": "https://github.com/faizamahmoud/perfume-api#readme"
 }
